@@ -14,7 +14,7 @@ e-mail: sh.mn.nat [at] gmail.com
 
 
 
-# Projects
+# Research
 
 ## [DeepHolo](http://digitalnature.slis.tsukuba.ac.jp/2017/11/deepholo/)
 <div align="left"><img src="imgs/deepholo.png" width="400"/></div>
@@ -38,8 +38,24 @@ Natsumi Kato, Hiroyuki Osone, Daitetsu Sato, **Naoya Muramatsu** and Yoichi Ochi
 
 
 ## [RoboCupJunior Soccer 2014/2015](http://www.robocupjunior.jp/)
-<div align="left"><img src="imgs/robocup.png" width="500px"/></div>
+<div align="left"><img src="imgs/robocup.png" width="400px"/></div>
 
 Hiroki Mori, **Naoya Muramatsu**  
 *2015年 北信越ブロック 3位入賞*
+
+
+# Entertainment
+
+## COJT 9th
+
+[![](http://img.youtube.com/vi/y3YlYkxyvG8/0.jpg)](https://www.youtube.com/watch?v=y3YlYkxyvG8)
+
+
+# Hobbies
+
+## RobotBattle
+<div align="left"><img src="imgs/robotbattle.png" width="300px"/></div>
+> 2015年度の長野高専の文化祭にて展示した企画   
+> 2台のロボットがレーザーを撃ち合って戦う．
+> ロボットの足にはオムニホイールが使われているため，縦横無尽に移動が出来る．
 
