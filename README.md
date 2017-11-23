@@ -48,7 +48,7 @@ Hiroki Mori, **Naoya Muramatsu**
 
 ## COJT 9th
 
-[![](http://img.youtube.com/vi/y3YlYkxyvG8/0.jpg)](https://www.youtube.com/watch?v=y3YlYkxyvG8)
+[![](http://img.youtube.com/vi/y3YlYkxyvG8/0.jpg)](https://youtu.be/y3YlYkxyvG8?t=3m40s)
 
 
 # Hobbies
