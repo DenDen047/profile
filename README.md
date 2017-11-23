@@ -1,9 +1,9 @@
 # About
 
 ## 村松直哉 / Naoya Muramatsu
-University of Tsukuba, School of Informatics　　
-College of Knowledge and Library Sciences, Science of Informatics　　
-筑波大学 情報学群 知識情報・図書館学類 4年　　
+University of Tsukuba, School of Informatics  
+College of Knowledge and Library Sciences, Science of Informatics  
+筑波大学 情報学群 知識情報・図書館学類 4年  
 
 [Digital Nature Group (Yoichi Ochiai Lab)デジタルネイチャー研究室（落合陽一研究室）](http://digitalnature.slis.tsukuba.ac.jp/2016/12/naoya-muramatsu/)  
 [Pixie Dust Technologies, Inc.ピクシーダストテクノロジーズ株式会社](http://pixiedusttech.com/naoya-muramatsu/)
