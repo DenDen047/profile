@@ -44,6 +44,13 @@ Hiroki Mori, **Naoya Muramatsu**
 *2015年 北信越ブロック 3位入賞*
 
 
+# Publications
+
+1. **Naoya Muramatsu**, Chun Wei Ooi, Yuta Itoh, and Yoichi Ochiai. 2017. DeepHolo: Recognizing 3D Objects using a Binary-weighted Computer-Generated Hologram. In SA ’17 Posters: SIGGRAPH Asia 2017 Posters, November 27– 30, 2017, Bangkok, Thailand. ACM, New York, NY, USA, 2 pages. DOI: https://doi.org/10.1145/3145690.3145725 (to appear)
+2. Mose Sakashita, Yuta Sato, Ayaka Ebisu, Keisuke Kawahara, Satoshi Hashizume, **Naoya Muramatsu**, Yoichi Ochiai. 2017. Haptic Marionette: Wrist Control Technology Combined with Electrical Muscle Stimulation and Hanger Reflex. In SIGGRAPH ASIA 2017 Poster (SA ’17) (to appear)
+3. **Naoya Muramatsu**, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, and Yoichi Ochiai. 2017. Sonoliards: Rendering Audible Sound Spots by Reflecting the Ultrasound Beams. In Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST ’17). ACM, New York, NY, USA, 57-59. DOI: https://doi.org/10.1145/3131785.3131807
+
+
 # Entertainment
 
 ## COJT 9th
@@ -55,7 +62,13 @@ Hiroki Mori, **Naoya Muramatsu**
 
 ## RobotBattle
 <div align="left"><img src="imgs/robotbattle.png" width="300px"/></div>
+
 > 2015年度の長野高専の文化祭にて展示した企画   
 > 2台のロボットがレーザーを撃ち合って戦う．
 > ロボットの足にはオムニホイールが使われているため，縦横無尽に移動が出来る．
+
+
+## [日本天文学会ジュニアセッション](http://www.asj.or.jp/jsession/index.html)
+1. 荒井恒紀ら, [木星を継ぐ者](http://www.asj.or.jp/jsession/old/2012haru/program.html), 2012.
+2. 村松直哉ら, [地球の自転効果に因る日食時の月までの距離と月の速度の測定](http://www.asj.or.jp/jsession/old/2013haru/jsession2013_proceedings.pdf), 2013.
 
