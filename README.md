@@ -19,17 +19,17 @@ Mail: sh.mn.nat [at] gmail.com
 ## Projects
 
 ### [DeepHolo](http://digitalnature.slis.tsukuba.ac.jp/2017/11/deepholo/)
-<img src="http://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2017/11/deepholo_eyecatch.png" width="600px"/>
+<img src="imgs/deepholo.png" width="600px"/>  
 <u>Naoya Muramatsu</u>, Chun Wei Ooi, Yuta Itoh and Yoichi Ochiai  
 *SIGGRAPH Asia 2017 Posters*
 
 ### [DeepWear](http://digitalnature.slis.tsukuba.ac.jp/2017/09/deepwear/)
-<img src="http://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2017/09/deepwear_keyvisual1000_1000.png" width="300px"/>
+<img src="imgs/deepwear.png" width="300px"/>  
 Natsumi Kato, Hiroyuki Osone, Daitetsu Sato, <u>Naoya Muramatsu</u> and Yoichi Ochiai  
 *NIPS 2017 Workshop*
 
 ### [Sonoliards](http://digitalnature.slis.tsukuba.ac.jp/2017/10/sonoliards/)
-<img src="http://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2017/10/Sonoliard_webimg.jpg" width="300px"/>
+<img src="imgs/sonoliards.jpg" width="300px"/>  
 <u>Naoya Muramatsu</u>, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, Yoichi Ochiai  
 *UIST 2017 Demo*
 
