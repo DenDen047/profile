@@ -10,7 +10,7 @@ College of Knowledge and Library Sciences, Science of Informatics
 
 
 
-Mail: sh.mn.nat [at] gmail.com  
+e-mail: sh.mn.nat [at] gmail.com  
 [Twitter: ＠DenDen047](https://twitter.com/DenDen047)  
 [Facebook: facebook.com/naoya.muramatsu.98](https://www.facebook.com/naoya.muramatsu.98)  
 
@@ -19,7 +19,7 @@ Mail: sh.mn.nat [at] gmail.com
 ## Projects
 
 ### [DeepHolo](http://digitalnature.slis.tsukuba.ac.jp/2017/11/deepholo/)
-<img src="imgs/deepholo.png" width="600px"/>  
+<div align="left"><img src="imgs/deepholo.png" width="400"/></div>  
 <u>Naoya Muramatsu</u>, Chun Wei Ooi, Yuta Itoh and Yoichi Ochiai  
 *SIGGRAPH Asia 2017 Posters*
 
