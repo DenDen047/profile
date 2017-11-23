@@ -5,15 +5,14 @@ University of Tsukuba, School of Informatics　　
 College of Knowledge and Library Sciences, Science of Informatics　　
 筑波大学 情報学群 知識情報・図書館学類 4年　　
 
-[Digital Nature Group (Yoichi Ochiai Lab)デジタルネイチャー研究室（落合陽一研究室）](http://t.umblr.com/redirect?z=http%3A%2F%2Fdigitalnature.slis.tsukuba.ac.jp&t=ZWMwNzgxY2RhOTMwZjY2ZDBiZDNhMWVhYTViYTYwNjM2ZWM2MmUzMyxUbU4zdWpESg%3D%3D&p=&m=0)　
-
-[Pixie Dust Technologies, Inc.ピクシーダストテクノロジーズ株式会社](http://t.umblr.com/redirect?z=http%3A%2F%2Fpixiedusttech.com&t=MDE1NDFlYTYzMDdlODQ2MGI5OTNhNDNlNjU0MjNiMGYzZmJhNWFiYSxUbU4zdWpESg%3D%3D&p=&m=0)
-
+[Digital Nature Group (Yoichi Ochiai Lab)デジタルネイチャー研究室（落合陽一研究室）](http://digitalnature.slis.tsukuba.ac.jp/2016/12/naoya-muramatsu/)  
+[Pixie Dust Technologies, Inc.ピクシーダストテクノロジーズ株式会社](http://pixiedusttech.com/naoya-muramatsu/)
 
 
-Mail: sh.mn.nat [at] gmail.com 
-[Twitter: ＠DenDen047](https://twitter.com/DenDen047) 
-[Facebook: facebook.com/naoya.muramatsu.98](https://www.facebook.com/naoya.muramatsu.98)
+
+Mail: sh.mn.nat [at] gmail.com  
+[Twitter: ＠DenDen047](https://twitter.com/DenDen047)  
+[Facebook: facebook.com/naoya.muramatsu.98](https://www.facebook.com/naoya.muramatsu.98)  
 
 
 
