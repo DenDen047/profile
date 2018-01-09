@@ -47,11 +47,11 @@ Hiroki Mori, **Naoya Muramatsu**
 
 # Publications
 
-1. **村松直哉**, 佐藤哲司, 伏見卓恭. 2017. レビュー観点の推移パターンに基づく商品属性の抽出手法. In DEIM 2017. **学生プレゼンテーション賞**.
-1. **Naoya Muramatsu**, Ooi Chun Wei, Takashi Miyazaki. 2017. Development of High Performance Filter for Indoor Positioning System. In _ICISIP 2017 Oral_.
-2. **Naoya Muramatsu**, Chun Wei Ooi, Yuta Itoh, and Yoichi Ochiai. 2017. DeepHolo: Recognizing 3D Objects using a Binary-weighted Computer-Generated Hologram. In _SA ’17 Posters: SIGGRAPH Asia 2017 Posters_, November 27– 30, 2017, Bangkok, Thailand. ACM, New York, NY, USA, 2 pages. DOI: https://doi.org/10.1145/3145690.3145725 (to appear)
-3. Mose Sakashita, Yuta Sato, Ayaka Ebisu, Keisuke Kawahara, Satoshi Hashizume, **Naoya Muramatsu**, Yoichi Ochiai. 2017. Haptic Marionette: Wrist Control Technology Combined with Electrical Muscle Stimulation and Hanger Reflex. In _SIGGRAPH ASIA 2017 Poster_ (SA ’17) (to appear)
-4. **Naoya Muramatsu**, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, and Yoichi Ochiai. 2017. Sonoliards: Rendering Audible Sound Spots by Reflecting the Ultrasound Beams. In _Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology_ (UIST ’17). ACM, New York, NY, USA, 57-59. DOI: https://doi.org/10.1145/3131785.3131807
+1. **村松直哉**, 佐藤哲司, 伏見卓恭. 2017. レビュー観点の推移パターンに基づく商品属性の抽出手法. In _DEIM 2017_. **学生プレゼンテーション賞**.
+2. **Naoya Muramatsu**, Ooi Chun Wei, Takashi Miyazaki. 2017. Development of High Performance Filter for Indoor Positioning System. In _ICISIP 2017 Oral_.
+3. **Naoya Muramatsu**, Chun Wei Ooi, Yuta Itoh, and Yoichi Ochiai. 2017. DeepHolo: Recognizing 3D Objects using a Binary-weighted Computer-Generated Hologram. In _SA ’17 Posters: SIGGRAPH Asia 2017 Posters_, November 27– 30, 2017, Bangkok, Thailand. ACM, New York, NY, USA, 2 pages. DOI: https://doi.org/10.1145/3145690.3145725 (to appear)
+4. Mose Sakashita, Yuta Sato, Ayaka Ebisu, Keisuke Kawahara, Satoshi Hashizume, **Naoya Muramatsu**, Yoichi Ochiai. 2017. Haptic Marionette: Wrist Control Technology Combined with Electrical Muscle Stimulation and Hanger Reflex. In _SIGGRAPH ASIA 2017 Poster_ (SA ’17) (to appear)
+5. **Naoya Muramatsu**, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, and Yoichi Ochiai. 2017. Sonoliards: Rendering Audible Sound Spots by Reflecting the Ultrasound Beams. In _Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology_ (UIST ’17). ACM, New York, NY, USA, 57-59. DOI: https://doi.org/10.1145/3131785.3131807
 
 
 
