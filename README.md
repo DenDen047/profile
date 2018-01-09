@@ -44,18 +44,20 @@ Hiroki Mori, **Naoya Muramatsu**
 *2015年 北信越ブロック 3位入賞*
 
 
+
 # Publications
 
-1. **Naoya Muramatsu**, Chun Wei Ooi, Yuta Itoh, and Yoichi Ochiai. 2017. DeepHolo: Recognizing 3D Objects using a Binary-weighted Computer-Generated Hologram. In SA ’17 Posters: SIGGRAPH Asia 2017 Posters, November 27– 30, 2017, Bangkok, Thailand. ACM, New York, NY, USA, 2 pages. DOI: https://doi.org/10.1145/3145690.3145725 (to appear)
-2. Mose Sakashita, Yuta Sato, Ayaka Ebisu, Keisuke Kawahara, Satoshi Hashizume, **Naoya Muramatsu**, Yoichi Ochiai. 2017. Haptic Marionette: Wrist Control Technology Combined with Electrical Muscle Stimulation and Hanger Reflex. In SIGGRAPH ASIA 2017 Poster (SA ’17) (to appear)
-3. **Naoya Muramatsu**, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, and Yoichi Ochiai. 2017. Sonoliards: Rendering Audible Sound Spots by Reflecting the Ultrasound Beams. In Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST ’17). ACM, New York, NY, USA, 57-59. DOI: https://doi.org/10.1145/3131785.3131807
+1. **Naoya Muramatsu**, Chun Wei Ooi, Yuta Itoh, and Yoichi Ochiai. 2017. DeepHolo: Recognizing 3D Objects using a Binary-weighted Computer-Generated Hologram. In _SA ’17 Posters: SIGGRAPH Asia 2017 Posters_, November 27– 30, 2017, Bangkok, Thailand. ACM, New York, NY, USA, 2 pages. DOI: https://doi.org/10.1145/3145690.3145725 (to appear)
+2. Mose Sakashita, Yuta Sato, Ayaka Ebisu, Keisuke Kawahara, Satoshi Hashizume, **Naoya Muramatsu**, Yoichi Ochiai. 2017. Haptic Marionette: Wrist Control Technology Combined with Electrical Muscle Stimulation and Hanger Reflex. In _SIGGRAPH ASIA 2017 Poster_ (SA ’17) (to appear)
+3. **Naoya Muramatsu**, Kazuki Ohshima, Ryota Kawamura, Ooi Chun Wei, Yuta Sato, and Yoichi Ochiai. 2017. Sonoliards: Rendering Audible Sound Spots by Reflecting the Ultrasound Beams. In _Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology_ (UIST ’17). ACM, New York, NY, USA, 57-59. DOI: https://doi.org/10.1145/3131785.3131807
+
 
 
 # Entertainment
 
 ## COJT 9th
-
 [![](http://img.youtube.com/vi/y3YlYkxyvG8/0.jpg)](https://youtu.be/y3YlYkxyvG8?t=3m40s)
+
 
 
 # Hobbies
