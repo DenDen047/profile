@@ -13,7 +13,7 @@ e-mail: sh.mn.nat [at] gmail.com
 [Facebook: facebook.com/naoya.muramatsu.98](https://www.facebook.com/naoya.muramatsu.98)
 
 
-# AWARDS
+# Awards
 - ロボカップジュニア サッカーチャレンジ: 北信越ブロック3位入賞
 - 第9回データ工学と情報マネジメントに関するフォーラム(DEIM2017): 学生プレゼンテーション賞
 - 筑波大学 学長表彰
